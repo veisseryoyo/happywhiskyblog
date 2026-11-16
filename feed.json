@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Happy whisky blog",
+    "description": "",
+    "home_page_url": "https://veisseryoyo.github.io/happywhiskyblog",
+    "feed_url": "https://veisseryoyo.github.io/happywhiskyblog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dean Veisser"
+    },
+    "items": [
+        {
+            "id": "https://veisseryoyo.github.io/happywhiskyblog/gkshgdkshdgkshdgkshg/",
+            "url": "https://veisseryoyo.github.io/happywhiskyblog/gkshgdkshdgkshdgkshg/",
+            "title": "גכשגדכשדגכשדגכשג",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Dean Veisser"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-16T16:58:16+02:00",
+            "date_modified": "2026-11-16T16:58:16+02:00"
+        }
+    ]
+}

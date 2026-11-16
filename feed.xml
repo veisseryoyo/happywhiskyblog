@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Happy whisky blog</title>
+    <link href="https://veisseryoyo.github.io/happywhiskyblog/feed.xml" rel="self" />
+    <link href="https://veisseryoyo.github.io/happywhiskyblog" />
+    <updated>2026-11-16T16:58:16+02:00</updated>
+    <author>
+        <name>Dean Veisser</name>
+    </author>
+    <id>https://veisseryoyo.github.io/happywhiskyblog</id>
+
+    <entry>
+        <title>גכשגדכשדגכשדגכשג</title>
+        <author>
+            <name>Dean Veisser</name>
+        </author>
+        <link href="https://veisseryoyo.github.io/happywhiskyblog/gkshgdkshdgkshdgkshg/"/>
+        <id>https://veisseryoyo.github.io/happywhiskyblog/gkshgdkshdgkshdgkshg/</id>
+
+        <updated>2026-11-16T16:58:16+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

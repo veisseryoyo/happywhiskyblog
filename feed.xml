@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Happy whisky blog</title>
-    <link href="https://veisseryoyo.github.io/happywhiskyblog/feed.xml" rel="self" />
-    <link href="https://veisseryoyo.github.io/happywhiskyblog" />
+    <link href="https://blog.happywhisky.events/feed.xml" rel="self" />
+    <link href="https://blog.happywhisky.events" />
     <updated>2026-11-23T11:29:57+02:00</updated>
     <author>
         <name>Dean Veisser</name>
     </author>
-    <id>https://veisseryoyo.github.io/happywhiskyblog</id>
+    <id>https://blog.happywhisky.events</id>
 
     <entry>
         <title>יעילות תפעולית מייצרת ממוצע. ויתור מודע על תפוקה מייצר אופי שאי אפשר להעתיק. הנה מה שקרה כשניסו את זה עם שמרי שמפניה בוויסקי סקוטי ובתסיסה צרפתית. 🥃🥂</title>
         <author>
             <name>Dean Veisser</name>
         </author>
-        <link href="https://veisseryoyo.github.io/happywhiskyblog/yylvt-tpvlyt-myytsrt-mmvts-vytvr-mvd-l-tpvqh-myytsr-vpy-shy-pshr-lhtyq-hnh-mh-shqrh-kshnysv-t-zh-m-shmry-shmpnyh-bvvysqy-sqvty-vbtsysh-tsrptyt/"/>
-        <id>https://veisseryoyo.github.io/happywhiskyblog/yylvt-tpvlyt-myytsrt-mmvts-vytvr-mvd-l-tpvqh-myytsr-vpy-shy-pshr-lhtyq-hnh-mh-shqrh-kshnysv-t-zh-m-shmry-shmpnyh-bvvysqy-sqvty-vbtsysh-tsrptyt/</id>
-        <media:content url="https://veisseryoyo.github.io/happywhiskyblog/media/posts/10/9d7f469a-8f79-4342-bf72-0751585e8eff-2.jpeg" medium="image" />
+        <link href="https://blog.happywhisky.events/yylvt-tpvlyt-myytsrt-mmvts-vytvr-mvd-l-tpvqh-myytsr-vpy-shy-pshr-lhtyq-hnh-mh-shqrh-kshnysv-t-zh-m-shmry-shmpnyh-bvvysqy-sqvty-vbtsysh-tsrptyt/"/>
+        <id>https://blog.happywhisky.events/yylvt-tpvlyt-myytsrt-mmvts-vytvr-mvd-l-tpvqh-myytsr-vpy-shy-pshr-lhtyq-hnh-mh-shqrh-kshnysv-t-zh-m-shmry-shmpnyh-bvvysqy-sqvty-vbtsysh-tsrptyt/</id>
+        <media:content url="https://blog.happywhisky.events/media/posts/10/9d7f469a-8f79-4342-bf72-0751585e8eff-2.jpeg" medium="image" />
             <category term="SCOTCHWHISKY"/>
             <category term="Leadership"/>
             <category term="DecisionMaking"/>
@@ -33,13 +33,13 @@
         <updated>2026-11-23T11:03:23+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/10/9d7f469a-8f79-4342-bf72-0751585e8eff-2.jpeg" alt="" />
+                        <img src="https://blog.happywhisky.events/media/posts/10/9d7f469a-8f79-4342-bf72-0751585e8eff-2.jpeg" alt="" />
                     כשמזקקת ויסקי סקוטית מוותרת מראש על מקסום תפוקת האלכוהול לטובת אופי היא מוכיחה שיעילות ללא בידול היא מלכודת של שחקנים&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/10/9d7f469a-8f79-4342-bf72-0751585e8eff-2.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blog.happywhisky.events/media/posts/10/9d7f469a-8f79-4342-bf72-0751585e8eff-2.jpeg" class="type:primaryImage" alt="" /></p>
                 <h1 class="reader-article-header__title" dir="rtl"><span data-scaffold-immersive-reader-title="">כשמזקקת ויסקי סקוטית מוותרת מראש על מקסום תפוקת האלכוהול לטובת אופי היא מוכיחה שיעילות ללא בידול היא מלכודת של שחקנים קטנים. 🥃</span></h1>
 <h2 id="ember65" class="ember-view reader-text-block__heading-2">ההימור של ראסיי על שמרי שמפניה</h2>
 <p id="ember66" class="ember-view reader-text-block__paragraph">מזקקת <a class="fbbDDQETsWMTYFzSotJbXpUPguExAvKeSPKE " href="https://www.linkedin.com/showcase/isle-of-raasay-distillery/" data-test-app-aware-link="" tabindex="0">Isle of Raasay Distillery</a> באיי ההברידים הפנימיים בסקוטלנד – שחקנית צעירה יחסית בנוף הוויסקי הסקוטי – השיקה מהדורה מוגבלת של 3,500 בקבוקים בשם <strong>Bourbon &amp; Brut</strong>. זוהי מהדורת סינגל מאלט שנוצרה מתסיסה של שעורה לא מעושנת (unpeated) תוך שימוש בלעדי בשמרי שמפניה (100% Champagne yeast), ולאחר מכן יושנה במשך שמונה שנים בחביות ברבן של מזקקת <strong>Four Roses</strong> מקנטקי.</p>
@@ -104,9 +104,9 @@
         <author>
             <name>Dean Veisser</name>
         </author>
-        <link href="https://veisseryoyo.github.io/happywhiskyblog/hmnkl-shkybh-t-mzqqt-hdgl-shl-jim-beam/"/>
-        <id>https://veisseryoyo.github.io/happywhiskyblog/hmnkl-shkybh-t-mzqqt-hdgl-shl-jim-beam/</id>
-        <media:content url="https://veisseryoyo.github.io/happywhiskyblog/media/posts/9/JIM-BEAM-2.jpeg" medium="image" />
+        <link href="https://blog.happywhisky.events/hmnkl-shkybh-t-mzqqt-hdgl-shl-jim-beam/"/>
+        <id>https://blog.happywhisky.events/hmnkl-shkybh-t-mzqqt-hdgl-shl-jim-beam/</id>
+        <media:content url="https://blog.happywhisky.events/media/posts/9/JIM-BEAM-2.jpeg" medium="image" />
             <category term="Whiskey"/>
             <category term="Strategy"/>
             <category term="OrganizationalTrust"/>
@@ -118,13 +118,13 @@
         <updated>2026-11-19T16:10:22+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/9/JIM-BEAM-2.jpeg" alt="" />
+                        <img src="https://blog.happywhisky.events/media/posts/9/JIM-BEAM-2.jpeg" alt="" />
                     הסימן הכי מובהק להנהלה שמנותקת מהמציאות הוא כשהיא ממשיכה לייצר בקצב שיא בזמן שהמחסנים עולים על גדותיהם, רק כי מפחיד&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/9/JIM-BEAM-2.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blog.happywhisky.events/media/posts/9/JIM-BEAM-2.jpeg" class="type:primaryImage" alt="" /></p>
                 <h3 style="direction: rtl;">הסימן הכי מובהק להנהלה שמנותקת מהמציאות הוא כשהיא ממשיכה לייצר בקצב שיא בזמן שהמחסנים עולים על גדותיהם, רק כי מפחיד לכבות את המכונה.</h3>
 <p dir="rtl" data-path-to-node="5">השבוע אנחנו מדברים על הפער שבין האגו של "צמיחה בכל מחיר" לבין המציאות שדורשת לבלום. הפער בין התעקשות על יעדי תפוקה היסטוריים לבין שוק שמאותת שהביקוש נבלם.</p>
 <p dir="rtl" data-path-to-node="6">ממש בימים אלו, ענקית המשקאות <strong data-path-to-node="6" data-index-in-node="29">Suntory Global Spirits</strong> הטילה פצצה: <br>המנכ"ל גרג יוז אישר שהחברה מאריכה את השבתת הזיקוק במתקן הדגל של <strong data-path-to-node="6" data-index-in-node="128">Jim Beam</strong> בקלרמונט עד סוף 2027.</p>
@@ -204,9 +204,9 @@
         <author>
             <name>Dean Veisser</name>
         </author>
-        <link href="https://veisseryoyo.github.io/happywhiskyblog/kshhmshbshym-hvpkym-lmmsd-prdvqs-htsmykhh/"/>
-        <id>https://veisseryoyo.github.io/happywhiskyblog/kshhmshbshym-hvpkym-lmmsd-prdvqs-htsmykhh/</id>
-        <media:content url="https://veisseryoyo.github.io/happywhiskyblog/media/posts/8/internal-rift-2.jpeg" medium="image" />
+        <link href="https://blog.happywhisky.events/kshhmshbshym-hvpkym-lmmsd-prdvqs-htsmykhh/"/>
+        <id>https://blog.happywhisky.events/kshhmshbshym-hvpkym-lmmsd-prdvqs-htsmykhh/</id>
+        <media:content url="https://blog.happywhisky.events/media/posts/8/internal-rift-2.jpeg" medium="image" />
             <category term="Strategy"/>
             <category term="SCOTCHWHISKY"/>
             <category term="Management"/>
@@ -216,15 +216,15 @@
         <updated>2026-11-18T13:02:43+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/8/internal-rift-2.jpeg" alt="" />
+                        <img src="https://blog.happywhisky.events/media/posts/8/internal-rift-2.jpeg" alt="" />
                     בחלק הקודם ראינו איך הסקוטים הגיבו ל-GI האנגלי החדש במחסומים רגולטוריים. אבל השיעור האסטרטגי המרתק ביותר מתרחש דווקא בתוך המחנה&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/8/internal-rift-2.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blog.happywhisky.events/media/posts/8/internal-rift-2.jpeg" class="type:primaryImage" alt="" /></p>
                 <header class="file-header">
-<h1 class="file-intro"><figure class="post__image"><img loading="lazy"  src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/8/internal-rift.jpeg" alt="" width="2752" height="1536" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veisseryoyo.github.io/happywhiskyblog/media/posts/8/responsive/internal-rift-xs.jpeg 300w ,https://veisseryoyo.github.io/happywhiskyblog/media/posts/8/responsive/internal-rift-sm.jpeg 480w ,https://veisseryoyo.github.io/happywhiskyblog/media/posts/8/responsive/internal-rift-md.jpeg 768w"></figure>בחלק הקודם ראינו איך הסקוטים הגיבו ל-GI האנגלי החדש במחסומים רגולטוריים. אבל השיעור האסטרטגי המרתק ביותר מתרחש דווקא בתוך המחנה האנגלי עצמו.</h1>
+<h1 class="file-intro"><figure class="post__image"><img loading="lazy"  src="https://blog.happywhisky.events/media/posts/8/internal-rift.jpeg" alt="" width="2752" height="1536" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.happywhisky.events/media/posts/8/responsive/internal-rift-xs.jpeg 300w ,https://blog.happywhisky.events/media/posts/8/responsive/internal-rift-sm.jpeg 480w ,https://blog.happywhisky.events/media/posts/8/responsive/internal-rift-md.jpeg 768w"></figure>בחלק הקודם ראינו איך הסקוטים הגיבו ל-GI האנגלי החדש במחסומים רגולטוריים. אבל השיעור האסטרטגי המרתק ביותר מתרחש דווקא בתוך המחנה האנגלי עצמו.</h1>
 </header>
 <section class="file-group" aria-labelledby=":ru:">
 <h4 id=":ru:" class="file-group-heading">האש הידידותית</h4>
@@ -274,9 +274,9 @@
         <author>
             <name>Dean Veisser</name>
         </author>
-        <link href="https://veisseryoyo.github.io/happywhiskyblog/kshhmvbyl-mrgysh-mvym-l-mkhdshym-tvbym/"/>
-        <id>https://veisseryoyo.github.io/happywhiskyblog/kshhmvbyl-mrgysh-mvym-l-mkhdshym-tvbym/</id>
-        <media:content url="https://veisseryoyo.github.io/happywhiskyblog/media/posts/7/regulatory-blockade-2.jpeg" medium="image" />
+        <link href="https://blog.happywhisky.events/kshhmvbyl-mrgysh-mvym-l-mkhdshym-tvbym/"/>
+        <id>https://blog.happywhisky.events/kshhmvbyl-mrgysh-mvym-l-mkhdshym-tvbym/</id>
+        <media:content url="https://blog.happywhisky.events/media/posts/7/regulatory-blockade-2.jpeg" medium="image" />
             <category term="WHISKY"/>
             <category term="Strategy"/>
             <category term="SCOTCH"/>
@@ -287,14 +287,14 @@
         <updated>2026-11-18T12:51:18+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/7/regulatory-blockade-2.jpeg" alt="" />
+                        <img src="https://blog.happywhisky.events/media/posts/7/regulatory-blockade-2.jpeg" alt="" />
                     גילדת הוויסקי האנגלי הצליחה לשבור את ההגמוניה הסקוטית בת מאות השנים ולהשיג אינדיקציה גאוגרפית (GI) משלה - קורס מזורז בשכתוב&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/7/regulatory-blockade-2.jpeg" class="type:primaryImage" alt="" /></p>
-                <h1><figure class="post__image"><img loading="lazy"  src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/7/regulatory-blockade.jpeg" alt="" width="2752" height="1536" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veisseryoyo.github.io/happywhiskyblog/media/posts/7/responsive/regulatory-blockade-xs.jpeg 300w ,https://veisseryoyo.github.io/happywhiskyblog/media/posts/7/responsive/regulatory-blockade-sm.jpeg 480w ,https://veisseryoyo.github.io/happywhiskyblog/media/posts/7/responsive/regulatory-blockade-md.jpeg 768w"></figure></h1>
+                    <p><img src="https://blog.happywhisky.events/media/posts/7/regulatory-blockade-2.jpeg" class="type:primaryImage" alt="" /></p>
+                <h1><figure class="post__image"><img loading="lazy"  src="https://blog.happywhisky.events/media/posts/7/regulatory-blockade.jpeg" alt="" width="2752" height="1536" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.happywhisky.events/media/posts/7/responsive/regulatory-blockade-xs.jpeg 300w ,https://blog.happywhisky.events/media/posts/7/responsive/regulatory-blockade-sm.jpeg 480w ,https://blog.happywhisky.events/media/posts/7/responsive/regulatory-blockade-md.jpeg 768w"></figure></h1>
 <h1>גילדת הוויסקי האנגלי הצליחה לשבור את ההגמוניה הסקוטית בת מאות השנים ולהשיג אינדיקציה גאוגרפית (GI) משלה - קורס מזורז בשכתוב חוקי המשחק. אבל הענק הסקוטי לא נשאר שקט.</h1>
 <section class="file-group" aria-labelledby=":r1:">
 <h4 id=":r1:" class="file-group-heading">מה קרה</h4>
@@ -340,9 +340,9 @@
         <author>
             <name>Dean Veisser</name>
         </author>
-        <link href="https://veisseryoyo.github.io/happywhiskyblog/hkll-hrshvn-bbydvl-strtgy-lshvt-mh-shhtshyyh-l-mtsph/"/>
-        <id>https://veisseryoyo.github.io/happywhiskyblog/hkll-hrshvn-bbydvl-strtgy-lshvt-mh-shhtshyyh-l-mtsph/</id>
-        <media:content url="https://veisseryoyo.github.io/happywhiskyblog/media/posts/6/Golden-Irish-Whiskey-Shelf-2.png" medium="image" />
+        <link href="https://blog.happywhisky.events/hkll-hrshvn-bbydvl-strtgy-lshvt-mh-shhtshyyh-l-mtsph/"/>
+        <id>https://blog.happywhisky.events/hkll-hrshvn-bbydvl-strtgy-lshvt-mh-shhtshyyh-l-mtsph/</id>
+        <media:content url="https://blog.happywhisky.events/media/posts/6/Golden-Irish-Whiskey-Shelf-2.png" medium="image" />
             <category term="USP"/>
             <category term="Strategy"/>
             <category term="Management"/>
@@ -355,14 +355,14 @@
         <updated>2026-11-18T12:37:16+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/6/Golden-Irish-Whiskey-Shelf-2.png" alt="" />
+                        <img src="https://blog.happywhisky.events/media/posts/6/Golden-Irish-Whiskey-Shelf-2.png" alt="" />
                     כשחושבים על וויסקי אירי, האסוציאציה המיידית היא רכות, מתיקות וזיקוק משולש נטול עשן. ואז מגיע קונמרה וטורף את הקלפים הסיפור&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/6/Golden-Irish-Whiskey-Shelf-2.png" class="type:primaryImage" alt="" /></p>
-                <h1 class="MsoNormal" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><i style="mso-bidi-font-style: normal;"><span dir="LTR"><figure class="post__image"><img loading="lazy"  src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/6/Golden-Irish-Whiskey-Shelf.png" alt="" width="1448" height="1086" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veisseryoyo.github.io/happywhiskyblog/media/posts/6/responsive/Golden-Irish-Whiskey-Shelf-xs.png 300w ,https://veisseryoyo.github.io/happywhiskyblog/media/posts/6/responsive/Golden-Irish-Whiskey-Shelf-sm.png 480w ,https://veisseryoyo.github.io/happywhiskyblog/media/posts/6/responsive/Golden-Irish-Whiskey-Shelf-md.png 768w"></figure>כשחושבים על וויסקי אירי, האסוציאציה המיידית היא רכות, מתיקות וזיקוק משולש נטול עשן. ואז מגיע קונמרה וטורף את הקלפים</span></i></h1>
+                    <p><img src="https://blog.happywhisky.events/media/posts/6/Golden-Irish-Whiskey-Shelf-2.png" class="type:primaryImage" alt="" /></p>
+                <h1 class="MsoNormal" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><i style="mso-bidi-font-style: normal;"><span dir="LTR"><figure class="post__image"><img loading="lazy"  src="https://blog.happywhisky.events/media/posts/6/Golden-Irish-Whiskey-Shelf.png" alt="" width="1448" height="1086" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.happywhisky.events/media/posts/6/responsive/Golden-Irish-Whiskey-Shelf-xs.png 300w ,https://blog.happywhisky.events/media/posts/6/responsive/Golden-Irish-Whiskey-Shelf-sm.png 480w ,https://blog.happywhisky.events/media/posts/6/responsive/Golden-Irish-Whiskey-Shelf-md.png 768w"></figure>כשחושבים על וויסקי אירי, האסוציאציה המיידית היא רכות, מתיקות וזיקוק משולש נטול עשן. ואז מגיע קונמרה וטורף את הקלפים</span></i></h1>
 <h3 dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><span dir="LTR" style="font-family: 'Arial',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: major-bidi;">הסיפור</span></h3>
 <p class="MsoNormal" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><span dir="LTR">עוד לפני שלוגמים, אי אפשר לפספס את הבקבוק הירוק והבולט של קונמרה (Connemara) על המדף, שעומד בניגוד חריף לשקיפות ולצבעי הנחושת הקלאסיים של רוב המתחרים בקטגוריה. זוהי הצהרת כוונות ויזואלית ברורה שרומזת שמשהו כאן שונה.</span></p>
 <p class="MsoNormal" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><span dir="LTR">המזקקה - קולי (Cooley), שהוקמה ב-1987 על ידי היזם ג'ון טילינג - לא רק בחרה בזיקוק כפול בניגוד למסורת האירית של זיקוק משולש, אלא החזירה לחיים מסורת אירית עתיקה ונשכחת: ייבוש שעורה בעשן כבול (Peat). כשהושק ב-1999, קונמרה היה הוויסקי האירי המעושן הראשון מזה יותר ממאה שנה. הצעד הזה, שאולי נראה בהתחלה כמו הימור פרוע, הוא למעשה מאסטר-קלאס באיך בונים בידול אסטרטגי כשהשוק צפוף.</span></p>
@@ -399,9 +399,9 @@
         <author>
             <name>Dean Veisser</name>
         </author>
-        <link href="https://veisseryoyo.github.io/happywhiskyblog/strtgyh-shl-sblnvt-myyshvn-khbyvt-lprytst-shvvqym/"/>
-        <id>https://veisseryoyo.github.io/happywhiskyblog/strtgyh-shl-sblnvt-myyshvn-khbyvt-lprytst-shvvqym/</id>
-        <media:content url="https://veisseryoyo.github.io/happywhiskyblog/media/posts/5/CHINA-DEAL-2.jpeg" medium="image" />
+        <link href="https://blog.happywhisky.events/strtgyh-shl-sblnvt-myyshvn-khbyvt-lprytst-shvvqym/"/>
+        <id>https://blog.happywhisky.events/strtgyh-shl-sblnvt-myyshvn-khbyvt-lprytst-shvvqym/</id>
+        <media:content url="https://blog.happywhisky.events/media/posts/5/CHINA-DEAL-2.jpeg" medium="image" />
             <category term="WHISKY"/>
             <category term="Strategy"/>
             <category term="Management"/>
@@ -413,14 +413,14 @@
         <updated>2026-11-18T12:34:46+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/5/CHINA-DEAL-2.jpeg" alt="" />
+                        <img src="https://blog.happywhisky.events/media/posts/5/CHINA-DEAL-2.jpeg" alt="" />
                     וויסקי הוא מזמן לא רק משקה שאוהבים להעריך הוא סחורה אסטרטגית שמהווה מנוע צמיחה אדיר למדינות. ומה שמרתק בחדשות האחרונות&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/5/CHINA-DEAL-2.jpeg" class="type:primaryImage" alt="" /></p>
-                <h1 class="MsoNormal" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><i style="mso-bidi-font-style: normal;"><span dir="LTR"><figure class="post__image"><img loading="lazy"  src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/5/CHINA-DEAL.jpeg" alt="" width="2400" height="1792" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veisseryoyo.github.io/happywhiskyblog/media/posts/5/responsive/CHINA-DEAL-xs.jpeg 300w ,https://veisseryoyo.github.io/happywhiskyblog/media/posts/5/responsive/CHINA-DEAL-sm.jpeg 480w ,https://veisseryoyo.github.io/happywhiskyblog/media/posts/5/responsive/CHINA-DEAL-md.jpeg 768w"></figure>וויסקי הוא מזמן לא רק משקה שאוהבים להעריך <br>הוא סחורה אסטרטגית שמהווה מנוע צמיחה אדיר למדינות. ומה שמרתק בחדשות האחרונות מהזירה הבינלאומית הוא לא רק הכסף, אלא הסבלנות.</span></i></h1>
+                    <p><img src="https://blog.happywhisky.events/media/posts/5/CHINA-DEAL-2.jpeg" class="type:primaryImage" alt="" /></p>
+                <h1 class="MsoNormal" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><i style="mso-bidi-font-style: normal;"><span dir="LTR"><figure class="post__image"><img loading="lazy"  src="https://blog.happywhisky.events/media/posts/5/CHINA-DEAL.jpeg" alt="" width="2400" height="1792" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.happywhisky.events/media/posts/5/responsive/CHINA-DEAL-xs.jpeg 300w ,https://blog.happywhisky.events/media/posts/5/responsive/CHINA-DEAL-sm.jpeg 480w ,https://blog.happywhisky.events/media/posts/5/responsive/CHINA-DEAL-md.jpeg 768w"></figure>וויסקי הוא מזמן לא רק משקה שאוהבים להעריך <br>הוא סחורה אסטרטגית שמהווה מנוע צמיחה אדיר למדינות. ומה שמרתק בחדשות האחרונות מהזירה הבינלאומית הוא לא רק הכסף, אלא הסבלנות.</span></i></h1>
 <h3 dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><span dir="LTR" style="font-family: 'Arial',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: major-bidi;">מה קרה</span></h3>
 <p class="MsoNormal" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><span dir="LTR">ב-2 בפברואר 2026 נכנסה לתוקף הורדת המכס של סין על וויסקי מהממלכה המאוחדת: מ-10 אחוזים ל-5 אחוזים - קיצוץ של מחצית, אחרי פגישת הפסגה בין ראש ממשלת בריטניה קיר סטארמר לנשיא סין שי ג'ינפינג בבייג'ינג. לפי הערכת הממשלה הבריטית, המהלך שווה כ-250 מיליון ליש"ט ליצואנים הבריטים על פני חמש שנים, ואיגוד הוויסקי הסקוטי קיבל אותו בברכה: סין היא השוק העשירי בגודלו של הוויסקי הסקוטי במונחי ערך, ואחד הצומחים ביותר בשנים האחרונות.</span></p>
 <p class="MsoNormal" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><span dir="LTR">ברקע עומד גם הסכם הסחר ההיסטורי עם הודו שנחתם בשנה שעברה: המכס על וויסקי ירד מ-150 אחוזים ל-75 אחוזים מיד, ויוסיף לרדת ל-40 אחוזים בעשור הקרוב. השוק הגדול בעולם, שהיה סגור עשרות שנים בפני היצרנים האירופאים, נפתח לאט אבל בביטחון.</span></p>
@@ -453,9 +453,9 @@
         <author>
             <name>Dean Veisser</name>
         </author>
-        <link href="https://veisseryoyo.github.io/happywhiskyblog/hqlym-qvb-t-qtsb-hhbshlh-bvvysqy-vbnyhvl/"/>
-        <id>https://veisseryoyo.github.io/happywhiskyblog/hqlym-qvb-t-qtsb-hhbshlh-bvvysqy-vbnyhvl/</id>
-        <media:content url="https://veisseryoyo.github.io/happywhiskyblog/media/posts/4/ryRT0hlTze_0_261_2500_1407_0_x-large-2.jpg" medium="image" />
+        <link href="https://blog.happywhisky.events/hqlym-qvb-t-qtsb-hhbshlh-bvvysqy-vbnyhvl/"/>
+        <id>https://blog.happywhisky.events/hqlym-qvb-t-qtsb-hhbshlh-bvvysqy-vbnyhvl/</id>
+        <media:content url="https://blog.happywhisky.events/media/posts/4/ryRT0hlTze_0_261_2500_1407_0_x-large-2.jpg" medium="image" />
             <category term="WHISKY"/>
             <category term="Strategy"/>
             <category term="NewWorld"/>
@@ -469,14 +469,14 @@
         <updated>2026-11-18T12:28:27+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/4/ryRT0hlTze_0_261_2500_1407_0_x-large-2.jpg" alt="" />
+                        <img src="https://blog.happywhisky.events/media/posts/4/ryRT0hlTze_0_261_2500_1407_0_x-large-2.jpg" alt="" />
                     בדיוק כמו בוויסקי, גם בעולם הניהול והעסקים זמן אינו נמדד רק על לוח השנה, אלא בסביבה שבה אתה גדל. הסיפור&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/4/ryRT0hlTze_0_261_2500_1407_0_x-large-2.jpg" class="type:primaryImage" alt="" /></p>
-                <h1 class="MsoNormal" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><strong><i style="mso-bidi-font-style: normal;"><span dir="LTR"><figure class="post__image"><img loading="lazy"  src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/4/ryRT0hlTze_0_261_2500_1407_0_x-large.jpg" alt="" width="1024" height="576" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veisseryoyo.github.io/happywhiskyblog/media/posts/4/responsive/ryRT0hlTze_0_261_2500_1407_0_x-large-xs.jpg 300w ,https://veisseryoyo.github.io/happywhiskyblog/media/posts/4/responsive/ryRT0hlTze_0_261_2500_1407_0_x-large-sm.jpg 480w ,https://veisseryoyo.github.io/happywhiskyblog/media/posts/4/responsive/ryRT0hlTze_0_261_2500_1407_0_x-large-md.jpg 768w"></figure>בדיוק כמו בוויסקי, גם בעולם הניהול והעסקים זמן אינו נמדד רק על לוח השנה, אלא בסביבה שבה אתה גדל.</span></i></strong></h1>
+                    <p><img src="https://blog.happywhisky.events/media/posts/4/ryRT0hlTze_0_261_2500_1407_0_x-large-2.jpg" class="type:primaryImage" alt="" /></p>
+                <h1 class="MsoNormal" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><strong><i style="mso-bidi-font-style: normal;"><span dir="LTR"><figure class="post__image"><img loading="lazy"  src="https://blog.happywhisky.events/media/posts/4/ryRT0hlTze_0_261_2500_1407_0_x-large.jpg" alt="" width="1024" height="576" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.happywhisky.events/media/posts/4/responsive/ryRT0hlTze_0_261_2500_1407_0_x-large-xs.jpg 300w ,https://blog.happywhisky.events/media/posts/4/responsive/ryRT0hlTze_0_261_2500_1407_0_x-large-sm.jpg 480w ,https://blog.happywhisky.events/media/posts/4/responsive/ryRT0hlTze_0_261_2500_1407_0_x-large-md.jpg 768w"></figure>בדיוק כמו בוויסקי, גם בעולם הניהול והעסקים זמן אינו נמדד רק על לוח השנה, אלא בסביבה שבה אתה גדל.</span></i></strong></h1>
 <h3 dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><span dir="LTR" style="font-family: 'Arial',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: major-bidi;">הסיפור</span></h3>
 <p class="MsoNormal" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><span dir="LTR">מזקקת מילק &amp; האני (M&amp;H) בתל אביב, מזקקת הוויסקי הראשונה בישראל, הוכיחה לעולם משהו מרתק: החום והלחות של האקלים הישראלי מאיצים באופן דרמטי את האינטראקציה בין התזקיק לעץ החבית. כבר בימיה הראשונים של המזקקה העריך היועץ ד"ר ג'ים סוואן, מומחה עולמי ליישון וויסקי באקלים חם, שהוויסקי יהיה בשל במלואו אחרי שלוש עד חמש שנים - ולא אחרי עשר עד שתים עשרה שנים כמקובל בסקוטלנד. ואכן, הסינגל מאלט המסחרי הראשון של M&amp;H יצא לשוק כבר בגיל שלוש, והסקירות המקצועיות מתארות וויסקי צעיר בשנים אבל בשל בטעם.</span></p>
 <p class="MsoNormal" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><span dir="LTR">הניסוי הכי קיצוני של המזקקה התרחש בים המלח, הנקודה הנמוכה בעולם: חביות הונחו על גג מלון, כ-423 מטר מתחת לפני הים, בחום שמגיע עד כ-50 מעלות ובאוויר יבש ומלוח. התוצאה הייתה סדרת M&amp;H Apex Dead Sea - וגם מחיר: "חלקם של המלאכים" (Angels' Share), כלומר הוויסקי שמתאדה דרך דופן החבית, הגיע שם לכ-25 אחוזים בשנה, לעומת כ-2 אחוזים בלבד בסקוטלנד. בדיוק בגלל זה מיישנים שם כל חבית לכל היותר שנה עד שנה וחצי, ואז מחזירים אותה לתל אביב.</span></p>
@@ -510,9 +510,9 @@
         <author>
             <name>Dean Veisser</name>
         </author>
-        <link href="https://veisseryoyo.github.io/happywhiskyblog/hvmts-ltsvr-bzmn-shyvr-mdygv/"/>
-        <id>https://veisseryoyo.github.io/happywhiskyblog/hvmts-ltsvr-bzmn-shyvr-mdygv/</id>
-        <media:content url="https://veisseryoyo.github.io/happywhiskyblog/media/posts/3/DIAGEO.jpeg" medium="image" />
+        <link href="https://blog.happywhisky.events/hvmts-ltsvr-bzmn-shyvr-mdygv/"/>
+        <id>https://blog.happywhisky.events/hvmts-ltsvr-bzmn-shyvr-mdygv/</id>
+        <media:content url="https://blog.happywhisky.events/media/posts/3/DIAGEO.jpeg" medium="image" />
             <category term="courage"/>
             <category term="WHISKY"/>
             <category term="Strategy"/>
@@ -524,14 +524,14 @@
         <updated>2026-11-18T11:14:57+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/3/DIAGEO.jpeg" alt="" />
+                        <img src="https://blog.happywhisky.events/media/posts/3/DIAGEO.jpeg" alt="" />
                     תארו לעצמכם שיש לכם קו מוצרים יוקרתי שמייצר מיליונים כבר 25 שנה, אבל השוק מאותת שהוא בהאטה. האם היה לכם&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/3/DIAGEO.jpeg" class="type:primaryImage" alt="" /></p>
-                <h2 class="MsoNormal align-right" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><em><span dir="LTR"><figure class="post__image"><img loading="lazy"  src="https://veisseryoyo.github.io/happywhiskyblog/media/posts/3/Gemini_Generated_Image_752v5v752v5v752v-2.jpg" alt="" width="2752" height="1536" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veisseryoyo.github.io/happywhiskyblog/media/posts/3/responsive/Gemini_Generated_Image_752v5v752v5v752v-2-xs.jpg 300w ,https://veisseryoyo.github.io/happywhiskyblog/media/posts/3/responsive/Gemini_Generated_Image_752v5v752v5v752v-2-sm.jpg 480w ,https://veisseryoyo.github.io/happywhiskyblog/media/posts/3/responsive/Gemini_Generated_Image_752v5v752v5v752v-2-md.jpg 768w"></figure><br>תארו לעצמכם שיש לכם קו מוצרים יוקרתי שמייצר מיליונים כבר 25 שנה, אבל השוק מאותת שהוא בהאטה. <br>האם היה לכם את האומץ לעצור הכל מרצון, ולוותר על הכנסות בטוחות רק כדי להגן על ערך המותג?</span></em></h2>
+                    <p><img src="https://blog.happywhisky.events/media/posts/3/DIAGEO.jpeg" class="type:primaryImage" alt="" /></p>
+                <h2 class="MsoNormal align-right" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><em><span dir="LTR"><figure class="post__image"><img loading="lazy"  src="https://blog.happywhisky.events/media/posts/3/Gemini_Generated_Image_752v5v752v5v752v-2.jpg" alt="" width="2752" height="1536" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.happywhisky.events/media/posts/3/responsive/Gemini_Generated_Image_752v5v752v5v752v-2-xs.jpg 300w ,https://blog.happywhisky.events/media/posts/3/responsive/Gemini_Generated_Image_752v5v752v5v752v-2-sm.jpg 480w ,https://blog.happywhisky.events/media/posts/3/responsive/Gemini_Generated_Image_752v5v752v5v752v-2-md.jpg 768w"></figure><br>תארו לעצמכם שיש לכם קו מוצרים יוקרתי שמייצר מיליונים כבר 25 שנה, אבל השוק מאותת שהוא בהאטה. <br>האם היה לכם את האומץ לעצור הכל מרצון, ולוותר על הכנסות בטוחות רק כדי להגן על ערך המותג?</span></em></h2>
 <h3 class="align-right" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><span dir="LTR" style="font-family: 'Arial',sans-serif; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: major-bidi;">הסיפור</span></h3>
 <p class="MsoNormal align-right" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><span dir="LTR">ב-2001 השיקה ענקית האלכוהול Diageo את קולקציית ה-Special Releases: סדרה שנתית של מהדורות מוגבלות שהעניקה לשוחרי הוויסקי גישה לחביות מהנדירות במחסנים של החברה. <br>במשך שנים כיכבו בה וויסקים ממזקקות סגורות כמו Brora ו-Port Ellen, ומ-2019 הפכה כל קולקציה לנושאית, עם כשמונה בקבוקים בעיצוב משותף ממותגים מוכרים כמו Talisker, Lagavulin ו-Caol Ila.</span></p>
 <p class="MsoNormal align-right" dir="RTL" style="text-align: left; direction: rtl; unicode-bidi: embed;"><span dir="LTR">ואז, בסוף אוקטובר 2026, הגיעה ההודעה: לא תהיה קולקציית Special Releases לשנת 2026. דיאג'ו אישרה ל-The Spirits Business שהיא "משהה את הקולקציה לשנה" כדי "לבחון משוב ולוודא שההיצע העתידי יענה על הצרכים העכשוויים של הצרכנים והלקוחות". זו השנה הראשונה מאז 2001 שבה הסדרה לא יוצאת - והחברה לא התחייבה מתי, ובאיזו צורה, היא תחזור.</span></p>
